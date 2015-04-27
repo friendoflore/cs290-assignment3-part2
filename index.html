@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Gist Requests</title>
+		<link rel="stylesheet" type ="text/css" href="styles.css">
+		<script type="text/javascript" src="requestsEtc.js"></script>
+	</head>
+	<body>
+		<section id="gistBox">
+			<h3>Gists</h3>
+			<ul id="gists">
+			</ul>
+		</section>
+		<section id="favoritesBox">
+			<h3>Favorites</h3>
+			<ul id="favoritesList">
+			</ul>
+		</section>
+		<div>
+			<input type="button" value="Display Gists" onclick="submitToGetGists()">
+			<input type="text" id="searchField">
+			<input type="button" id="search" value="Search" onclick="gistSearch()">
+		</div>
+	</body>
+</html>

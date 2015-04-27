@@ -1,0 +1,49 @@
+html {
+	font-family: sans-serif;
+}
+
+form {
+	float: left;
+}
+
+section {
+	float: left;
+	margin-left: 1em; 
+	margin-top: -1em;
+	width: 30%;
+}
+
+ul {
+	height: 90%;
+	list-style-type: none;
+	padding: 0px;
+	word-wrap: break-word;
+}
+
+li {
+	width: 100%;
+	border: solid 1px black;
+	border-radius: 5px;
+	background-color: lightGreen;
+	margin-top: 0.2em;
+}
+
+#gistBox {
+	float: left;
+}
+
+dl {
+	font-size: 0.9em;
+	margin-left: 0.1em;
+}
+a {
+	font-size: 0.7em;
+}
+
+div {
+	margin-top: 3em;
+}
+
+dd {
+	margin-left: 0em;
+}

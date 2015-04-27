@@ -1,0 +1,32 @@
+Start: Tue, 21 Apr 2015 06:45:42 -0700
+End: Tue, 21 Apr 2015 07:45:00 -0700
+Tasks: Cloned the repository and set up own assignment3 repo on github, started working on first 2 functions in the functions.js file
+
+Start: Tue, 21 Apr 2015 09:45:42 -0700
+End: Tue, 21 Apr 2015 11:03:00 -0700
+Tasks: Merged with my personal repo and completed the funcitons.js portion of assignment
+
+Start: Tue, 21 Apr 2015 11:27:00 -0700
+End: Tue, 21 Apr 2015 01:17:00 -0700
+Tasks: Completed variables.js and objects.js portions of assignment, added comments to functions.js file.
+
+Start: Fri, 24 Apr 2015 06:50:00 -0700
+End: Fri, 24 Apr 2015 08:40:00 -0700
+Tasks: Started on Part 2, set up the HTML framework and started reading into requesting gists with the GitHub API.
+
+Start: Sat, 25 Apr 2015 14:17:00 -0700
+End: Sat, 25 Apr 2015 16:30:00 -0700
+Tasks: Focused primarily on getting the framework set up for the gist requests - I have not completed a successful request but I have set up the creation of list elements for the gists.
+
+Start: Sat, 25 Apr 2015 23:08:00 -0700
+End: Sun, 26 Apr 2015 02:45:00 -0700
+Tasks: I have successfully completed a request from GitHub and have parsed the results into list items.
+
+Start: Sun, 26 Apr 2015 15:17:00 -0700
+End: Sun, 26 Apr 2015 19:12:00 -0700
+Tasks: Completed Part 2, during this session, I completed the creation of a user favorites list on local storage.
+
+
+
+
+
